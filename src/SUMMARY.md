@@ -1,3 +1,5 @@
-# Summary
+# PartnerPlace
 
-- [Chapter 1](./chapter_1.md)
+- [Start here](./start_here.md)
+- [Proposal format](./proposal.md)
+- [Review system]()
